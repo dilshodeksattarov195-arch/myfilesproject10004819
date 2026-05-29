@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingrync",
+        "uuid": 20755433,
+        "checksum": "2ko0u8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
